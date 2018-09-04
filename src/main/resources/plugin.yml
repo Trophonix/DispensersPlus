@@ -1,0 +1,4 @@
+name: DispensersPlus
+author: Trophonix
+version: ${project.version}
+main: com.trophonix.dispensersplus.DispensersPlus
